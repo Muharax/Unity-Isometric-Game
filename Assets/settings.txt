@@ -1,0 +1,5 @@
+dragSpeed=20
+minX=20
+maxX=80
+minY=10
+maxY=22

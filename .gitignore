@@ -1,0 +1,17 @@
+Temp/
+Library/
+Logs/
+Build/
+Builds/
+obj/
+.vs/ (jeśli używasz Visual Studio)
+.idea/ (jeśli używasz Rider)
+*.sln
+*.userprefs
+*.csproj
+*.tmp
+*.bak
+*.swp
+*.opendb
+*.VC.db
+*.pidb
